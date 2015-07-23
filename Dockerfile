@@ -4,10 +4,10 @@ FROM ubuntu:14.04
 # File Author / Maintainer
 MAINTAINER Paulina Lach
 
-ENV http_proxy=http://wwwcache.rl.ac.uk:8080
-ENV https_proxy=http://wwwcache.rl.ac.uk:8080
-ENV HTTP_PROXY=http://wwwcache.rl.ac.uk:8080
-ENV HTTPS_PROXY=http://wwwcache.rl.ac.uk:8080
+#ENV http_proxy=http://wwwcache.rl.ac.uk:8080
+#ENV https_proxy=http://wwwcache.rl.ac.uk:8080
+#ENV HTTP_PROXY=http://wwwcache.rl.ac.uk:8080
+#ENV HTTPS_PROXY=http://wwwcache.rl.ac.uk:8080
 
 
 # Update the repository sources list
